@@ -4,3 +4,4 @@
 [-riferimento a schede madri](schede_madri.md)
 Elettronica Padovana
 [-riferimento componenti](componenti/)
+[periferiche](periferiche/)
