@@ -3,3 +3,4 @@
 [-riferimento a processori](processori.md)
 [-riferimento a schede madri](schede_madri.md)
 Elettronica Padovana
+[-riferimento componenti](componenti/)
